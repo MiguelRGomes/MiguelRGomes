@@ -28,7 +28,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-<h1> M-i-g-u-e-l</h1> 
+<h1> Miguel</h1> 
 
 <p align="left">
 
